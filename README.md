@@ -1,4 +1,4 @@
-######## Commandes ##########
+# Commandes
 
 * make : compiler les fichiers sources du compilateur en produisant un executable "myml"
 
@@ -22,7 +22,7 @@
 
 
 
-######## Description des dossiers #########
+# Description des dossiers 
 
 * src : contient les fichiers sources du compilateur
 
