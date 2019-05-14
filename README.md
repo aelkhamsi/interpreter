@@ -4,12 +4,12 @@
 
 * ./myml : lancer l'interpréteur
 
-  	 SYNTAX :
-	 $- a = 1;  (affectation d'un entier positif ou négatif)
-	 $- b = 1.0;  (affectation d'un float positif ou négatif)
-	 $- c = a+b; (affectation d'une somme)
-	 $- c = if (a == 2) then 3 else 6;  (utiliser des conditions)
-	 $- c = let x = 3 in (1+x);  (utiliser des local bindings)
+	SYNTAX : <br/>
+	$- a = 1;  (affectation d'un entier positif ou négatif) <br/>
+	$- b = 1.0;  (affectation d'un float positif ou négatif) <br/>
+	$- c = a+b; (affectation d'une somme) <br/>
+	$- c = if (a == 2) then 3 else 6;  (utiliser des conditions) <br/>
+	$- c = let x = 3 in (1+x);  (utiliser des local bindings)<br/>
 	 
 * ./myml tst/exemple[1-4]  :  lancer ./myml sur les commandes de l'un des fichiers du répertoire tst/
 
@@ -28,3 +28,4 @@
 
 * tst : contient les fichiers d'exemples des 4 jalons (exemple1-4)
 
+	
